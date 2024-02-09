@@ -1,2 +1,2 @@
 # freegpus
-Determine which nvidia gpus are free via nvidia-smi
+function freegpus.freegpus returns a list of freegpus
